@@ -14,7 +14,6 @@ export default function Header() {
           <Link href="/CatSearch">
             <a className={styles.navItem}>
               <FaSearch />
-              Search
             </a>
           </Link>
           <Link href="/CatBreeds">
